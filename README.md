@@ -6,4 +6,5 @@ measure the length of the sticks during their transport on the conveyer belt.
 Controllers to maneuver the moveable parts have been designed, tested, and implemented in C RTAI Linux.
 
 Report.pdf --> detailed description
+
 Sorting_Code.c --> implementation
